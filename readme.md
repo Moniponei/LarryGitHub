@@ -3,4 +3,5 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Monica Serrano**, git lover
+**Monica Serrano**, Git & Larry Plotter lover
+
